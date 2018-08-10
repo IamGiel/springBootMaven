@@ -1,3 +1,4 @@
 springbootexample/repository/EmployeeRepository.class
+springbootexample/controller/EmployeeController.class
 springbootexample/model/Employee.class
 springbootexample/dao/EmployeeDao.class
