@@ -14,9 +14,9 @@ import springbootexample.model.Employee;
 
 @RestController
 @RequestMapping("/company")
-public class EmployeeController {
+public class EmployeeController { 
 	@Autowired
-	EmployeeDao employeeDao
+	EmployeeDao employeeDao 
 	
 //	save employee
 	@PostMapping("/employees")
